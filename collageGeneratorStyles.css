@@ -1,0 +1,44 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    padding: 40px; /* Mai mult padding */
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Centrarea textului */
+}
+
+
+#collageForm {
+    display: grid;
+    grid-gap: 20px;
+    margin-bottom: 20px;
+}
+
+#collageResult {
+    padding: 20px;
+    background-color: #e9e9e9;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+#collageResult {
+    padding: 20px;
+    background-color: #e9e9e9;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#collageResult p {
+    margin: 10px 0;
+    font-size: 1.2em;
+    color: #333;
+}
